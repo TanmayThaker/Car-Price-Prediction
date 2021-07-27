@@ -6,29 +6,30 @@
 * [Install and Run](#install-and-run)
 
 ## About the Project
-It predicts the selling price of a car given various parameters like year
-selling_price
-km_driven
-fuel
-seller_type
-transmission
+It predicts the selling price of a car given various parameters like 
+year,
+selling_price,
+km_driven,
+fuel,
+seller_type,
+transmission,
 Owner
 
 ## About the dataset:
 
-Vehicle dataset[https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho]
+Vehicle dataset [https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho]
 
 This dataset contains information about used cars listed on www.cardekho.com
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
 The columns in the given dataset are as follows:
 
-name
-year
-selling_price
-km_driven
-fuel
-seller_type
-transmission
+name,
+year,
+selling_price,
+km_driven,
+fuel,
+seller_type,
+transmission,
 Owner
 
 ## Prediction 
