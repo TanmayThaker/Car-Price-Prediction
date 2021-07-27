@@ -42,8 +42,8 @@ HTML, CSS, Flask, Python, Machine Learning.
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/TanmayThaker/Wikipedia-Scraper.git
-  $ cd Wikipedia-Scraper
+  $ git clone https://github.com/TanmayThaker/Car-Price-Prediction
+  $ cd Car-Price-Prediction
   ```
 
 2. Initialize and activate a virtualenv:
